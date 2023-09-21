@@ -31,7 +31,8 @@ header {
   box-shadow: 0 0 0 #000;
   object-fit: cover;
   position: absolute;
-  background-color: 247, 247, 247;
+  /* background-color: yellow;
+  opacity: 0.9; */
   top: 50px;
   left: 32%;
 }
